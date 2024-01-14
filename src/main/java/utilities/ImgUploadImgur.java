@@ -1,4 +1,4 @@
-package utilities.common;
+package utilities;
 
 import io.restassured.RestAssured;
 
